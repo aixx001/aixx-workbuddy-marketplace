@@ -1,0 +1,37 @@
+{
+  "name": "aixx-plugins",
+  "description": "AIXX 官方插件市场 — 一个 Key 调用全世界的 AI。",
+  "owner": {
+    "name": "AIXX",
+    "url": "https://aixx.ai/"
+  },
+  "plugins": [
+    {
+      "name": "aixx",
+      "source": "./plugins/aixx",
+      "description": "AIXX — 一个 Key,调用全世界的 AI。几十个大模型(Claude/GPT/Gemini/DeepSeek 等) + AI 出图 + AI 视频,完全 OpenAI 兼容。注册送 ¥5,在 https://baodan.run/console/ 登录后「令牌」页生成你的 Key。",
+      "version": "1.0.0",
+      "author": {
+        "name": "AIXX",
+        "url": "https://aixx.ai/"
+      },
+      "homepage": "https://aixx.ai/",
+      "repository": "https://github.com/aixx001/aixx-workbuddy-marketplace",
+      "license": "MIT",
+      "category": "AI",
+      "keywords": [
+        "aixx",
+        "mcp",
+        "llm",
+        "ai",
+        "openai-compatible",
+        "claude",
+        "gpt",
+        "gemini",
+        "deepseek",
+        "image-generation",
+        "video-generation"
+      ]
+    }
+  ]
+}
